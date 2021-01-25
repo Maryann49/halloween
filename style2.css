@@ -1,0 +1,43 @@
+body {
+  /* background-image: url(./pictures/spooky/background.png); */
+  background-size: cover;
+  margin: 0px;
+}
+html{
+  
+   background: url(pictures/ginger\ model.jpg) no-repeat center center fixed; 
+  /* beautiful responsive background image made to fill all the space of a page */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+
+  justify-content: center;
+}
+img {
+  width: 450px;
+  height: 300px;
+  margin: 2px;
+  transition: all 4s;
+}
+img:hover {
+  transform: scale(1.2);
+}
+p {
+  font-family: Andalus;
+  font-size: 3em;
+  border-bottom: 5px solid #751b03;
+  color: #230700;
+  width: 400px;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  color: #e2cbc5;
+}

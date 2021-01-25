@@ -1,0 +1,161 @@
+body {
+  /* background-image: url(./pictures/ginger\ model.jpg); */
+  background-size: cover;
+  clear: both;
+  /* background-position: 10% ;
+  right: 100%; */
+}
+html{
+   background: url(pictures/ginger\ model.jpg) no-repeat center center fixed; 
+  /* beautiful responsive background image made to fill all the space of a page */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h2,
+p {
+  text-align: center;
+  border: 5px solid rgba(172, 48, 15, 0.5);
+  color: #e2cbc5;
+  text-shadow: 2px 2px 5px #511100;
+  font-family: "Lobster", cursive;
+  font-size: 90%;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  color: #e2cbc5;
+  text-transform: uppercase;
+  font-family: "Source Code Pro", monospace;
+}
+a {
+  color: #f7481a;
+  text-shadow: 2px 2px 5px #511100;
+  text-decoration: none;
+}
+p {
+  color: #e2cbc5;
+  text-shadow: 2px 2px 5px #511100;
+  cursor: pointer;
+}
+nav {
+  text-align: right;
+}
+button,
+input {
+  background: url(./pictures/fab7227.jpg);
+  color: #e2cbc5;
+  cursor: default;
+  border-radius: 12px;
+  border: 2px solid #ac300f;
+}
+
+.iloveboobs {
+  border: 5px solid #751b03;
+  /* background-image: url(./pictures/Screenshot_39.png);
+  opacity: 0.5; */
+}
+/* .iloveboobs:hover {
+  opacity: 1;
+} */
+.ihateboobs {
+  border: 5px solid #511100;
+}
+
+.iloveveganas {
+  border: 5px solid #230700;
+}
+a:hover {
+  text-shadow: 2px 5px 10px #a15844;
+}
+
+.bla {
+  text-transform: uppercase;
+}
+img {
+  float: right;
+}
+footer {
+  color: #e2cbc5;
+  font-family: "Source Code Pro", monospace;
+  clear: both;
+  text-align: center;
+}
+.font_1 {
+  margin: 0;
+  line-height: normal;
+  letter-spacing: normal;
+  pointer-events: auto;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: baseline;
+  background: 0 0;
+  cursor: default;
+  font: normal normal normal 135px/1.4em "playfair display", serif;
+  color: #e2cbc5;
+  clear: both;
+  font-family: "Lobster", cursive;
+  vertical-align: middle;
+}
+.li_1 {
+  position: relative;
+  left: 1440px;
+  top: 220px;
+  clear: both;
+  width: 38px;
+  height: 38px;
+  margin-bottom: 0;
+  margin-right: 49px;
+  display: inline-block;
+  list-style: none;
+}
+button {
+  position: relative;
+  left: 1180px;
+  top: 110px;
+}
+iframe {
+  position: relative;
+  left: 100px;
+  top: 500px;
+  float: center;
+  opacity: 0.4;
+}
+
+audio {
+  position: relative;
+  left: 1600px;
+  top: 595px;
+  /* float: center; */
+  opacity: 0.1;
+}
+.boobies {
+  border: 5px solid #a15844;
+  display: inline-block;
+  padding: 5px 20px 5px 20px;
+  margin: 0px 20px;
+  width: 20px;
+  height: 10px;
+}
+
+.p_1 {
+  color: yellowgreen;
+  font-size: 20px;
+}
+span {
+  font-size: 2em;
+}
+/* .container{
+    width: 450px;
+    height: 300px;
+    clear: both; 
+}
+    
+
+.container {
+        display: flex;
+        flex-wrap: wrap;
+} */
